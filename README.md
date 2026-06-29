@@ -164,11 +164,28 @@
 │   ├── pkgs_rxn.txt                  # RxnScribe 环境
 │   └── pkgs_vllm.txt                 # vLLM 主环境
 │
-└── examples/                          # 示例：MinerU 解析后的 Markdown
+├── data/                              # 数据
+│   ├── trainning_data/               # 原始训练数据（各任务的 JSONL 文件）
+│   └── parsed_markdowns/             # MinerU 解析后的 936 篇论文 Markdown（纯文本）
+│
+└── examples/                          # 示例：MinerU 解析后的 Markdown（含图片）
     ├── 10.1002_adem.201700820/
     ├── 10.1016_j.ccell.2020.09.014/
     └── 10.1016_j.corsci.2019.108187/
 ```
+
+## 📦 数据下载
+
+仓库内已包含训练数据（`data/trainning_data/`）和 936 篇论文的 Markdown 文本（`data/parsed_markdowns/`）。
+
+以下大数据文件因体积较大，通过 **GitHub Release** 提供：
+
+| 文件 | 大小 | 说明 |
+|------|------|------|
+| `pdfs.zip` | ~2.7 GB | 936 篇科学文献的原始 PDF 文件 |
+| `mds-936-with-images.zip` | ~1.8 GB | MinerU 解析后的完整 Markdown（含提取的图片） |
+
+> 请在 [Releases 页面](https://github.com/blueproj/bohrium-ai4scup-sci/releases) 下载这些文件。
 
 ## 🚀 环境配置
 
@@ -229,7 +246,8 @@ cd task3_sft && bash finetune_lora_no_eval.sh
 - 代码中的模型路径（如 `/bohr/...`）为比赛平台路径，实际使用时需替换为本地路径
 - 训练数据全部来自于比赛所提供的数据，未使用外部数据
 - Task4 因运行超时问题被放弃，其余任务均有完整实现
-- 示例 Markdown 文件仅包含 3 篇论文的解析结果，完整 936 篇论文的解析结果因体积较大未包含在内
+- `data/parsed_markdowns/` 包含全部 936 篇论文的 Markdown 纯文本；含图片的完整版请从 [Releases](https://github.com/blueproj/bohrium-ai4scup-sci/releases) 下载
+- 原始 PDF 文件请从 [Releases](https://github.com/blueproj/bohrium-ai4scup-sci/releases) 下载
 
 ## 📄 许可证
 

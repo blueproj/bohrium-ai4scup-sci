@@ -164,11 +164,28 @@ The solution is divided into three main components: **PDF Parsing**, **Multimoda
 │   ├── pkgs_rxn.txt                  # RxnScribe environment
 │   └── pkgs_vllm.txt                 # vLLM main environment
 │
-└── examples/                          # Sample: MinerU parsed Markdown
+├── data/                              # Data
+│   ├── trainning_data/               # Original training data (JSONL files for each task)
+│   └── parsed_markdowns/             # MinerU-parsed Markdown for 936 papers (text only)
+│
+└── examples/                          # Sample: MinerU parsed Markdown (with images)
     ├── 10.1002_adem.201700820/
     ├── 10.1016_j.ccell.2020.09.014/
     └── 10.1016_j.corsci.2019.108187/
 ```
+
+## 📦 Data Download
+
+The repository already includes training data (`data/trainning_data/`) and Markdown text for all 936 papers (`data/parsed_markdowns/`).
+
+The following large data files are available via **GitHub Release** due to size:
+
+| File | Size | Description |
+|------|------|-------------|
+| `pdfs.zip` | ~2.7 GB | Original PDF files of 936 scientific papers |
+| `mds-936-with-images.zip` | ~1.8 GB | Complete MinerU-parsed Markdown (with extracted images) |
+
+> Please download these files from the [Releases page](https://github.com/blueproj/bohrium-ai4scup-sci/releases).
 
 ## 🚀 Environment Setup
 
@@ -229,7 +246,8 @@ See `inference/infer_final.ipynb` for the detailed inference pipeline:
 - Model paths in the code (e.g., `/bohr/...`) are competition platform paths and need to be replaced with local paths
 - All training data comes from the competition; no external data was used
 - Task4 was abandoned due to runtime timeout; all other tasks have complete implementations
-- The examples directory contains only 3 sample parsed papers; the full 936 papers are not included due to size constraints
+- `data/parsed_markdowns/` contains Markdown text for all 936 papers; the full version with images can be downloaded from [Releases](https://github.com/blueproj/bohrium-ai4scup-sci/releases)
+- Original PDF files can be downloaded from [Releases](https://github.com/blueproj/bohrium-ai4scup-sci/releases)
 
 ## 📄 License
 
