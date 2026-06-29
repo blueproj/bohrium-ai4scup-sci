@@ -1,0 +1,6 @@
+jsonlines
+magic-pdf[full]==0.7.0b1
+matplotlib-inline
+PyPDF2
+ninja
+wheel

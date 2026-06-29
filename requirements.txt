@@ -1,0 +1,52 @@
+# ============================================================
+# AI for Science Cup - Scientific Paper Intelligent Parsing
+# Combined Requirements (3 environments)
+# ============================================================
+
+# --- Environment 1: MinerU (PDF Parsing) ---
+# conda create -n mineru python=3.10 -y
+jsonlines
+magic-pdf[full]==0.7.0b1
+matplotlib-inline
+PyPDF2
+ninja
+wheel
+
+# --- Environment 2: RxnScribe (Chemical Reaction Recognition) ---
+# conda create -n rxn python=3.10 -y
+MolScribe
+matplotlib-inline
+torch==1.13.1
+numpy>=1.19.5
+pandas>=1.2.4
+Pillow==9.5.0
+matplotlib>=3.5.3
+opencv-python>=4.5.5.64
+pycocotools>=2.0.4
+pytorch-lightning>=1.8.6
+transformers>=4.5.1
+huggingface-hub>=0.11.0
+easyocr>=1.6.2
+
+# --- Environment 3: vLLM (Main Inference + RAG) ---
+# This is the main environment
+jsonlines
+torch==2.4.0
+transformers==4.43.4
+FlagEmbedding==1.2.10
+langchain==0.2.5
+tiktoken==0.7.0
+transformers_stream_generator
+einops
+vllm==0.5.4
+optimum
+auto_gptq==0.7.1
+matplotlib
+matplotlib-inline
+bitsandbytes
+pymupdf
+pillow
+peft
+
+# --- Training (additional, installed in vLLM environment) ---
+# pip install deepspeed

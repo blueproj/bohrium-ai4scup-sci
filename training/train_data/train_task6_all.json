@@ -1,0 +1,1234 @@
+[
+    {
+        "id": 2396,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2013.10.015/images/6a380dd614e334240baf0e76d6597a0b0d8464d571c0700fd96c7ad4193c5db2.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what are the minimum and maximum intramolecular distancesnm) of dimethyl carbonate?\n\na) 0.41/0.87\nb) 0.49/0.67\nc) 0.25/0.25\nd) 0.25/0.38"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 0.41/0.87"
+            }
+        ]
+    },
+    {
+        "id": 2397,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2013.10.015/images/09b4b56b0684f164138037e1635c6629f28957f2b2743f6d0c9a7fc24d74b2c7.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscositymPa s) of the electrolyte with 50:50 wt% EC/DMC and 1mol L^-1 LiFAP under 25◦C?\n\na) 1.840\nb) 4.301\nc) 1.888\nd) 8.12"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 4.301"
+            }
+        ]
+    },
+    {
+        "id": 2398,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2013.10.015/images/691cd8767da06f5cfc33956aef069f417bee3ffae624e2575eefe4430956c2bc.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the VTF equation parameter T0K) for the conductivity of 1mol L^-1 LiPF6 in EC/DMC 50:50 wt%)?\n\na) 169.9\nb) 151.2\nc) 153.5\nd) 176.9"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 176.9"
+            }
+        ]
+    },
+    {
+        "id": 2399,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2013.10.015/images/934f19a5a934712ed10d84fe7c1b90d4639f7479d88612c7fe06c9e7bb8085f2.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the self-diffusion coefficient D of the ^31P ion under 20.60◦C in the 1mol L^-1 LiPF6 in EC/DMC 50:50 wt%) system as a function of the nucleus observed by PGSE-NMR experiments?\n\na) 3.584 × 10^−10\nb) 3.548 × 10^−10\nc) 3.754 × 10^−10\nd) 2.431 × 10^−10"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 3.584 × 10^−10"
+            }
+        ]
+    },
+    {
+        "id": 2400,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2013.10.015/images/934f19a5a934712ed10d84fe7c1b90d4639f7479d88612c7fe06c9e7bb8085f2.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the self-diffusion coefficient D of the ^19F ion under 40.09◦C in the 1mol L^-1 LiFAP in EC/DMC 50:50 wt%) system as a function of the nucleus observed by PGSE-NMR experiments?\n\na) 4.988 × 10^−10\nb) 2.544 × 10^−10\nc) 2.882 × 10^−10\nd) 2.953 × 10^−10"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 2.882 × 10^−10"
+            }
+        ]
+    },
+    {
+        "id": 2401,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2013.10.015/images/33196153688648a0cf7df94e3e98d1397c263e254974777d8c0aa74017eb63f2.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the Arrhenius equation parameter D0 for the self-diffusion coefficient of the Li^+ ion in the 1mol L^-1 LiFAP in EC/DMC 50:50 wt%) system as a function of the nucleus observed by PGSE-NMR experiments?\n\na) 1.236 × 10−7\nb) 16.285\nc) 15.809\nd) 1.353 × 10^−7"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 1.353 × 10^−7"
+            }
+        ]
+    },
+    {
+        "id": 2402,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1039_D1CP00967B_si/images/4cd66df86a22615fde200206e5a35c300afe5b81becb6408120d588c15904072.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the density of the solvent without solute at T/K=298 with xEC=0.458?\n\na) 1.19\nb) 1.22\nc) 1.29\nd) 1.16"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 1.19"
+            }
+        ]
+    },
+    {
+        "id": 2403,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1039_D1CP00967B_si/images/a5f59339841ac4f54ea1b122e9f68fe05abf51d6c112ee01bda4e40f1f792403.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity of the 1.0 mol kg^-1 LiFSA solution at T/K=288 with xEC=0.361?\n\na) 3.81\nb) 3.08\nc) 3.26\nd) 4.25"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 3.81"
+            }
+        ]
+    },
+    {
+        "id": 2404,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1039_D1CP00967B_si/images/f53d2d7103b551efb305368046d164fa35e20a18c3eb7edcd36b3b900f1c0e6d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the conductivity of the 1.0 mol kg^-1 LiPF6 solution at T/K=318 with xEC=0.672?\n\na) 16.2\nb) 18.1\nc) 15.4\nd) 16.1"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 15.4"
+            }
+        ]
+    },
+    {
+        "id": 2405,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1039_D1CP00967B_si/images/f8d78066fe68a2b0c4ed2271cd989a4b3291e47356c234a7a058b4d1a8c23e8a.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of FSA^- at T/K=298 measured by PGSE-NMR with xEC=0.464?\n\na) 3.21\nb) 18.1\nc) 4.44\nd) 1.85"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 3.21"
+            }
+        ]
+    },
+    {
+        "id": 2406,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1039_D1CP00967B_si/images/bf867b8c4008fcb09d51d58bb4b298924c11384c9e6494d8d240d741428d21a8.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the fraction in the DMC of the cis-trans conformer of DMC with xEC=0.124 in the solvent without solute?\n\na) 0.034\nb) 0.042\nc) 0.048\nd) 0.052"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 0.042"
+            }
+        ]
+    },
+    {
+        "id": 2407,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1039_D1CP00967B_si/images/8b2cde10c1249538d8b5b8e72e50ffe8c02c4fa8a6857323b4293205d713cf20.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the fraction in the DMC of the cis-cis conformer bound to Li^+ cc-Li) in LiPF6 with xEC=0.248?\n\na) 0.191\nb) 0.194\nc) 0.193\nd) 0.177"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 0.194"
+            }
+        ]
+    },
+    {
+        "id": 2408,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1039_D1CP00967B_si/images/8b2cde10c1249538d8b5b8e72e50ffe8c02c4fa8a6857323b4293205d713cf20.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the average solvation number of Li^+ of EC in LiPF6 with xEC=0.672?\n\na) 2.34\nb) 2.50\nc) 0.69\nd) 2.61"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 2.61"
+            }
+        ]
+    },
+    {
+        "id": 2409,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acs.jpcc.2c06699_si/images/3ddd1ccc4fea94c49fbeb160335bab8ce3d34e93c05b445a1f261484732beec2.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the activation energy of fluidity η^−1) in [LiBF4]/[SL] = 1/3 electrolyte in the temperature range from 30 to 90 °C?\n\na) 28.1\nb) 33.2\nc) 28.9\nd) 31.9"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 31.9"
+            }
+        ]
+    },
+    {
+        "id": 2410,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acs.jpcc.2c06699_si/images/f69855cb60b48b5f568aa528af409a861ebef489c2b6480e9c2bce7d89e085c7.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the activation energy of correlation times of BF4^− in [LiBF4]/[SL] = 1/10 electrolyte in the temperature range from 30 to 90 °C?\n\na) 8.0\nb) 8.1\nc) 9.0\nd) 13.2"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 9.0"
+            }
+        ]
+    },
+    {
+        "id": 2411,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/1f9e93738364c38401fcf50460da89d0ba84656698a181dfc1270c572300ffa1.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the MW of the N-methyl-2-pyrrolidinone?\n\na) 86.1\nb) 90.1\nc) 100.1\nd) 99.1"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 99.1"
+            }
+        ]
+    },
+    {
+        "id": 2412,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/78b67db4c5b5154c5266953598edb12353e2284389b63ce3649504a16a1bd0ea.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the degree of dissociation of DMC at 30°C?\n\na) 0.27\nb) 0.11\nc) 0.18\nd) 2.7"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 0.11"
+            }
+        ]
+    },
+    {
+        "id": 2414,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1063_1.1501279/images/7cfb3423e1243965020607e43b8ceb0b48c57e1bf020fea55ba1290719f33677.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the activation energy kJ mol^-1) of the solvent P4 in S10TF1 obtained from the D measurement?\n\na) 34.4±1.2\nb) 35.2±1.0\nc) 28.3±0.6\nd) 15.9±3.0"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 35.2±1.0"
+            }
+        ]
+    },
+    {
+        "id": 2415,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1063_1.1501279/images/694d10f6ac65ce8dec30ad0076077a36e9ee3fb70ceb0696733177435db56f88.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the melting Tm) temperature of TeG in S20TF1?\n\na) 209\nb) 231\nc) 254\nd) 248"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 231"
+            }
+        ]
+    },
+    {
+        "id": 2416,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1063_1.1501279/images/47d0b370cec18aa8920456dbd2e6c9c468f64de02eb7892bf0b74aa6af793057.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the activation energy calculated from VTF parameters of DG in S20TF1?\n\na)37.2 \nb) 14.3\nc) 10.8\nd) 13.2"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 10.8"
+            }
+        ]
+    },
+    {
+        "id": 2417,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1063_1.1501279/images/7cfb3423e1243965020607e43b8ceb0b48c57e1bf020fea55ba1290719f33677.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the activation energy kJ mol^-1) of the anion ^19F) of P10 in S20TF1 obtained from the T1 measurements?\n\na) 13.3±0.2 \nb) 14.0±0.1\nc) 12.7±0.2\nd) 13.2±0.5"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 14.0±0.1"
+            }
+        ]
+    },
+    {
+        "id": 2418,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1063_1.1501279/images/5ead48ef29c54a949ffd87b7a2ed00eb3f5b9f5df8550950afac9c693de7c1c0.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the ionic conductivity of P4 in S10TF1 calculated from the ion diffusion coefficients σN-E)\n\na) 3.2×10^-3\nb) 32×10^-3\nc) 3.8×10^-3\nd) 3.23×10^-2"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 3.2×10^-3"
+            }
+        ]
+    },
+    {
+        "id": 2419,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/c0eda2c6e2a136d12b6b7a844bd22661696e91268e94823070f2c5ebb990c701.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the MF of EC?\n\na)C4H2O2 \nb) C4H6O3\nc) C5H10O3\nd) C3H4O3"
+            },
+            {
+                "role": "assistant",
+                "content": "d) C3H4O3"
+            }
+        ]
+    },
+    {
+        "id": 2420,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/804bf7a467c297bf9693d7037f1fc90fdd1b3c706fa958e037523cfda94bea56.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the Temperature-Dependent DLi in the system of 1M LiPF6 in EC at 313K?\n\na) 1.53 \nb) 1.13\nc) 1.82\nd) 3.40"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 1.53 "
+            }
+        ]
+    },
+    {
+        "id": 2421,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/3d0cbb10f7a41a4c97ec3a16ead61e904637c044100ea02c25116cd7f59e0a41.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the R2 of the VFT Equation for the Diffusion Coefficient D of Single Electrolyte of PC when component=PF6)?\n\na) 0.99987 \nb) 0.99929\nc) 0.99979\nd) 0.99864"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 0.99979"
+            }
+        ]
+    },
+    {
+        "id": 2422,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/1186cb69426097e8e4ddf0b94d5daa98587c5064ba74db3064fb64ea893c917d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the Diffusion Coefficient of PF6 in EC/DEC6:4 binary electrolyte at 283K?\n\na) 1.95 \nb) 1.39\nc) 1.87\nd) 1.63"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 1.39"
+            }
+        ]
+    },
+    {
+        "id": 2423,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/3d0cbb10f7a41a4c97ec3a16ead61e904637c044100ea02c25116cd7f59e0a41.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the Fitting Parameter B for VFT Equation for Diffusion Coefficient D,D=Do exp−B/T−To)), for EC in EC/DEC 4:6 system?\n\na) 720 \nb) 568\nc) 143\nd) 583"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 568"
+            }
+        ]
+    },
+    {
+        "id": 2424,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_bs.arnmr.2019.04.002/images/6620d892745bc8e32abfbc991811b192d0680ac771a88c0dd0eb429a35f7a51a.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the constant c in SE equation for cation BMIm in ILs?\n\na) 3.0 ~3.5\nb) 3.0~3.7\nc) 4.4~4.5\nd) 3.1"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 3.1"
+            }
+        ]
+    },
+    {
+        "id": 2425,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2021.230423_si/images/0e51481147f9d86b39d5591e0b2d9f5e3c9a259b88710b756d7216fbf1997a15.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the density at T/K=298 of the binary solvent EC/DEC without solute with xEC=0.444?\n\na) 1.19\nb) 1.06\nc) 1.09\nd) 1.13"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 1.09"
+            }
+        ]
+    },
+    {
+        "id": 2426,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2021.230423_si/images/4b18e08655718151675dca83834ac33eb17c0062c8f02f0ade996c25a23cfb1c.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the self-diffusion coefficient of Li^+ at T/K=298 in 1.0 mol kg^-1 LiPF6 solution with xEC=0.744 determined by PGSE-NMR?\n\na) 1.11\nb) 1.02\nc) 1.87\nd) 1.31"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 1.11"
+            }
+        ]
+    },
+    {
+        "id": 2427,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2021.230423_si/images/197bc28f0357db75b7a68ad6c7bf4a4b74f8d510d371a8a0bbeecf125cd926d0.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity of EC/DEC binary solvent without solute with xEC=0.737?\n\na) 1.48\nb) 1.72\nc) 1.31\nd) 0.98"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 1.72"
+            }
+        ]
+    },
+    {
+        "id": 2428,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2021.230423_si/images/93563e2fd53de599a275a5923afdbd915eca2e174cc9686d2c5e5bd24c93ebaf.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the specific conductivity of 1.0mol kg^-1 LiPF6 in EC/DEC binary solvent with xEC=0.312 at T/K=308?\n\na) 7.6\nb) 10.2\nc) 14.3\nd) 12.0"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 7.6"
+            }
+        ]
+    },
+    {
+        "id": 2429,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2021.230423_si/images/a82dca78534cb67d4220316b745efdc76ef596750baddfd31b84c09f02c14c7b.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the mole fraction of the EC solvating Li+ determined from the ^13C NMR signal calibrated by Raman spectroscopy when xEC=0.649)?\n\na) 0.399\nb) 0.273\nc) 0.353\nd) 0.391"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 0.391"
+            }
+        ]
+    },
+    {
+        "id": 2430,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acs.jpcc.8b11599/images/1eaa90e906289d272a974dfc4ab61c1520b7388cd6c7209fc6fbfc0fb94717ac.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the ^7Li NMR Self-Diffusion Coefficients Dself) of LiPF6/PC at the Concentration of 1.2?\n\na) 0.0069\nb) 1.29450.0039)\nc) 0.69040.0019)\nd) 0.00699"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 1.29450.0039)"
+            }
+        ]
+    },
+    {
+        "id": 2431,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acs.jpcc.8b11599/images/1eaa90e906289d272a974dfc4ab61c1520b7388cd6c7209fc6fbfc0fb94717ac.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the ^7Li NMR Conductivity Data of LiPF6/PC at the Concentration of 1.4?\n\na) 0.0069\nb) 1.29450.0039)\nc) 0.69040.0019)\nd) 0.00699"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 0.00699"
+            }
+        ]
+    },
+    {
+        "id": 2432,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2014.03.072/images/3369a725ef35633204a10e4bcd902abd60e8c2527bbd852f9c9dd860fe6ed987.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the salt concentration fitting parameter D0 for diffusion constants for PC/LiBF4 liquid electrolytes using ^7Li nucleus at 323K?\n\na) 1.15\nb) 7.30\nc) 4.21\nd) 4.99"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 4.21"
+            }
+        ]
+    },
+    {
+        "id": 2433,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2014.03.072/images/25a5d05b50c73e9d8aaef25937142046f67758530c4db9c8d591d54e1746d2cb.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity salt concentration fitting parameter Aη for PC/LiBF4 liquid electrolytes at 333K?\n\na) 1.15\nb) 1.05\nc) 1.38\nd) 1.09"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 1.09"
+            }
+        ]
+    },
+    {
+        "id": 2434,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2014.03.072/images/dd7bf627eac35e12608ea0a0e23b6b3a00398d83e1602672da875f84b5089785.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the activation energy of viscosity for PC/LiBF4 liquid electrolytes when Salt Conc.=0.08)?\n\na) 14.9\nb) 15.1\nc) 12.9\nd) 21.6"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 14.9"
+            }
+        ]
+    },
+    {
+        "id": 2435,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.electacta.2014.03.072/images/97eeb9f044c7b4085060a6e9d21078f2eedec1e5dc918f7f589bdc459f5b412b.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the ionic radius calculations for PC molecules at salt concentration 0.61 mol kg^-1 at 323K?\n\na) 2.48\nb) 2.86\nc) 2.88\nd) 3.57"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 2.86"
+            }
+        ]
+    },
+    {
+        "id": 2436,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.5796_electrochemistry.21-00069/images/ea1b22a9d55e51ac6b855c6e37ce1f66f16e17aaf7b4e31f654bab63a200b6ef.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the Van der Waals radius of EC?\n\na) 2.54\nb) 2.76\nc) 2.88\nd) 2.58"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 2.58"
+            }
+        ]
+    },
+    {
+        "id": 2438,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_ab75cc/images/145a5dc1e23e63f6048dd7319d674621176dcfa64246b2a338c64ccfcfaabc0d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the ΔH of reaction DMC+Li^+=DMC-Li^+?\n\na) -44.384\nb) -44.486\nc) -37.731\nd) -52.380"
+            },
+            {
+                "role": "assistant",
+                "content": "b) -44.486"
+            }
+        ]
+    },
+    {
+        "id": 2439,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_ab75cc/images/450504533ead3f734ed9639e52399c572778ca3805ae947777951f44cddeef6c.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the Average O–Li bond length in 4DMC-Li^+?\n\na) 1.954\nb) 1.945\nc) 1.944\nd) 1.957"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 1.957"
+            }
+        ]
+    },
+    {
+        "id": 2440,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_ab75cc/images/1b2e8d26620eaa97da79f7c7b4918a97c1555b78d762e82d6f5da25833ac2f2f.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the ΔE of reaction DEC+DEC-Li^+=2DEC-Li^+?\n\na) -41.193\nb) -34.604\nc) -35.106\nd) -25.336"
+            },
+            {
+                "role": "assistant",
+                "content": "c) -35.106"
+            }
+        ]
+    },
+    {
+        "id": 2441,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_ab75cc/images/1deec5166b2513e6be2c22dfe515d45bfead6fcdbfa1329bb3654ffe798ce797.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the Average O–Li bond length in 3EMC-Li^+?\n\na) 1.854\nb) 1.855\nc) 1.956\nd) 1.783"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 1.855"
+            }
+        ]
+    },
+    {
+        "id": 2442,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_ab75cc/images/5a6401f9e6ac3e6b3298d308724ac10cb59ca057c0e98a7df6f3369ee1758c8b.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the ΔG of reaction DOL+Li^+=DOL-Li^+?\n\na) -30.100\nb) -37.910\nc) -29.225\nd) -20.422"
+            },
+            {
+                "role": "assistant",
+                "content": "a) -30.100"
+            }
+        ]
+    },
+    {
+        "id": 2443,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_ab75cc/images/3afab5bcd8ecd036f66d44baff82f6a5c746c826389a819aa3438d4e6811b488.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the Average O–Li bond length in 4DOL-Li^+?\n\na) 1.981\nb) 1.899\nc) 1.972\nd) 2.149"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 1.972"
+            }
+        ]
+    },
+    {
+        "id": 2444,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.chempr.2018.05.002/images/6638064664fb976d596a6bb9e4e83dd07ce077d4972a4b4fb807f07d813d78eb.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the liquidus point of dilute (LiFSI-8TMS)?\n\na) -7 ℃\nb) -5 ℃\nc) -3 ℃\nd) -9 ℃"
+            },
+            {
+                "role": "assistant",
+                "content": "a) -7 ℃"
+            }
+        ]
+    },
+    {
+        "id": 2445,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.chempr.2018.05.002/images/6638064664fb976d596a6bb9e4e83dd07ce077d4972a4b4fb807f07d813d78eb.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity of LiFSI-3TMS at 25 ℃?\n\na)97.5 cP\nb) 98.5 cP\nc) 99.5 cP\nd) 96.5 cP"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 99.5 cp"
+            }
+        ]
+    },
+    {
+        "id": 2447,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.chempr.2018.05.002/images/bc13cc35faace240c22cece31d52009f8f78a400473d297494facc7dccc01633.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the adsorption energy of TMS?\n\na) -80.5 kJ mol^-1\nb) -80.8 kJ mol^-1\nc) -81.0 kJ mol^-1\nd) -81.3 kJ mol^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "b) -80.8 kJ mol^-1"
+            }
+        ]
+    },
+    {
+        "id": 2448,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.chempr.2018.05.002/images/bc13cc35faace240c22cece31d52009f8f78a400473d297494facc7dccc01633.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the lithium salt concentration in LiFSI-8TMS?\n\na) 1.15 mol L^-1\nb) 1.16 mol L^-1\nc) 1.17 mol L^-1\nd) 1.18 mol L^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 1.18 mol L^-1"
+            }
+        ]
+    },
+    {
+        "id": 2449,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2018.08.059/images/c53ecf6c19e0ef80ebfbba7fbf171aadeb5b7ec99ede70e6bfdab190d43e3b3b.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the conductivity of LiFSI-8TMS at 18 ℃?\n\na) 15.67 mS cm^-1\nb) 15.68 mS cm^-1\nc) 15.69 mS cm^-1\nd) 15.70 mS cm^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 15.69 mS cm^-1"
+            }
+        ]
+    },
+    {
+        "id": 2450,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2018.08.059/images/c53ecf6c19e0ef80ebfbba7fbf171aadeb5b7ec99ede70e6bfdab190d43e3b3b.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the conductivity of 2M LiFSI at 25 ℃?\n\na) 10.00 mS cm^-1\nb) 10.01 mS cm^-1\nc) 10.02 mS cm^-1\nd) 10.03 mS cm^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 10.01 mS cm^-1"
+            }
+        ]
+    },
+    {
+        "id": 2451,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2018.08.059/images/c53ecf6c19e0ef80ebfbba7fbf171aadeb5b7ec99ede70e6bfdab190d43e3b3b.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the conductivity of 3M 0.5 M LiFSI+0.5 M LiPO2F2 at 35 ℃?\n\na) 13.71 mS cm^-1\nb) 13.72 mS cm^-1\nc) 13.73 mS cm^-1\nd) 13.74 mS cm^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 13.72 mS cm^-1"
+            }
+        ]
+    },
+    {
+        "id": 2452,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1016_j.jpowsour.2018.08.059/images/c53ecf6c19e0ef80ebfbba7fbf171aadeb5b7ec99ede70e6bfdab190d43e3b3b.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the conductivity of 1 M LiFSI+1 M LiPO2F2 at 45 ℃?\n\na) 12.18 mS cm^-1\nb) 12.19 mS cm^-1\nc) 12.20 mS cm^-1\nd) 12.21 mS cm^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 12.19 mS cm^-1"
+            }
+        ]
+    },
+    {
+        "id": 2453,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acsami.6b03857/images/fe04b06ed9b69bebde14c2e53a045513939a0807e4f91371f0cb604743a138e0.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the conductivity of 3 M LiFNFSI at 25 ℃?\n\na) 5.35 mS cm^-1\nb) 5.34 mS cm^-1\nc) 5.36 mS cm^-1\nd) 5.38 mS cm^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 5.36 mS cm^-1"
+            }
+        ]
+    },
+    {
+        "id": 2454,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acsami.6b03857/images/fe04b06ed9b69bebde14c2e53a045513939a0807e4f91371f0cb604743a138e0.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity of 3 M LiTFSI at 25 ℃?\n\na) 5.54 cP\nb) 5.55 cP\nc) 5.56 cP\nd) 5.57 cP"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 5.56 cP"
+            }
+        ]
+    },
+    {
+        "id": 2455,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acsami.9b05257/images/34d988212b37cfd78978723c743623c1b912777bbc4efcf6611301dc59adafe9.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the conductivity of 1:10.3 LiFSI/SL at 25 ℃?\n\na) 2.95 mS cm^-1\nb) 2.98 mS cm^-1\nc) 3.01 mS cm^-1\nd) 3.04 mS cm^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 3.04 mS cm^-1"
+            }
+        ]
+    },
+    {
+        "id": 2456,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acsami.9b05257/images/34d988212b37cfd78978723c743623c1b912777bbc4efcf6611301dc59adafe9.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity of 1:3.0 LiFSI/SL at 25 ℃?\n\na) 110 mPa s\nb) 111 mPa s\nc) 112 mPa s\nd) 113 mPa s"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 113 mPa s"
+            }
+        ]
+    },
+    {
+        "id": 2457,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_acsami.9b05257/images/34d988212b37cfd78978723c743623c1b912777bbc4efcf6611301dc59adafe9.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the melting point of 1:2.5 LiFSI/SL at 25 ℃?\n\na) -14.0 ℃\nb) -13.8 ℃\nc) -13.7 ℃\nd) -13.6 ℃"
+            },
+            {
+                "role": "assistant",
+                "content": "d) -13.6 ℃"
+            }
+        ]
+    },
+    {
+        "id": 2462,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1038_s41560-021-00962-y/images/cfcb825b7fa0c0a375916bea50e151f49788395343a79b1e5963cb12dbc665ca.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the molecular weight of DEE?\n\na) 118.13 g mol^-1\nb) 118.15 g mol^-1\nc) 118.19 g mol^-1\nd) 118.17 g mol^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 118.17 g mol^-1"
+            }
+        ]
+    },
+    {
+        "id": 2463,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1038_s41560-021-00962-y/images/cfcb825b7fa0c0a375916bea50e151f49788395343a79b1e5963cb12dbc665ca.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the density of F3DEE?\n\na) 1.05 g mL^-1\nb) 1.06 g mL^-1\nc) 1.08 g mL^-1\nd) 1.07 g mL^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 1.07 g mL^-1"
+            }
+        ]
+    },
+    {
+        "id": 2464,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1038_s41560-021-00962-y/images/cfcb825b7fa0c0a375916bea50e151f49788395343a79b1e5963cb12dbc665ca.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the approximate boiling point of F6DEE at ~1 kPa?\n\na) ~38 ℃\nb) ~39 ℃\nc) ~41 ℃\nd) ~40 ℃"
+            },
+            {
+                "role": "assistant",
+                "content": "d) ~40 ℃"
+            }
+        ]
+    },
+    {
+        "id": 2465,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1038_s41560-021-00962-y/images/cfcb825b7fa0c0a375916bea50e151f49788395343a79b1e5963cb12dbc665ca.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the boiling point of DEE at 1 atm?\n\na) 120 ℃\nb) 121 ℃\nc) 123 ℃\nd) 122 ℃"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 122 ℃"
+            }
+        ]
+    },
+    {
+        "id": 2467,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1038_s41560-021-00962-y/images/cfcb825b7fa0c0a375916bea50e151f49788395343a79b1e5963cb12dbc665ca.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity of 1.2 M LiFSI/F3DEE at 25 ℃?\n\na) 2.18 cP\nb) 2.19 cP\nc) 2.20 cP\nd) 2.21 cP"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 2.21 cP"
+            }
+        ]
+    },
+    {
+        "id": 2470,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1038_s41560-021-00962-y/images/cfcb825b7fa0c0a375916bea50e151f49788395343a79b1e5963cb12dbc665ca.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the molecular weight of F5DEE?\n\na) 208.11 g mol^-1\nb) 208.12 g mol^-1\nc) 208.13 g mol^-1\nd) 208.14 g mol^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 208.13 g mol^-1"
+            }
+        ]
+    },
+    {
+        "id": 2471,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_25_7_078203/images/0215f6ac0df2c20a85c7f4fe21536937165e60fe32778f2e8b4dfdf57c088460.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the density of 1M LiFSI + + 2M LiTFSI at 25 ℃?\n\na) 1.27 g cm^-3\nb) 1.28 g cm^-3\nc) 1.29 g cm^-3\nd) 1.30 g cm^-3"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 1.28 g cm^-3"
+            }
+        ]
+    },
+    {
+        "id": 2472,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_25_7_078203/images/0215f6ac0df2c20a85c7f4fe21536937165e60fe32778f2e8b4dfdf57c088460.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity of 2M LiFSI + 1M LiTFSI at 25 ℃?\n\na) 5.01 cP\nb) 5.02 cP\nc) 5.03 cP\nd) 5.04 cP"
+            },
+            {
+                "role": "assistant",
+                "content": "b) 5.02 cP"
+            }
+        ]
+    },
+    {
+        "id": 2473,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1088_1674-1056_25_7_078203/images/0215f6ac0df2c20a85c7f4fe21536937165e60fe32778f2e8b4dfdf57c088460.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the conductivity of 3M LiTFSI at 25 ℃?\n\na) 5.43 mS cm^-1\nb) 5.44 mS cm^-1\nc) 5.45 mS cm^-1\nd) 5.46 mS cm^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 5.45 mS cm^-1"
+            }
+        ]
+    },
+    {
+        "id": 2474,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/1f9e93738364c38401fcf50460da89d0ba84656698a181dfc1270c572300ffa1.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the molecular weight of EC?\n\na) 88.1 g mol^-1\nb) 88.2 g mol^-1\nc) 88.3 g mol^-1\nd) 88.4 g mol^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 88.1 g mol^-1"
+            }
+        ]
+    },
+    {
+        "id": 2475,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/1f9e93738364c38401fcf50460da89d0ba84656698a181dfc1270c572300ffa1.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the chemical name of PC?\n\na) propylene carbonate\nb) propylene carbide\nc) propylene carboxylate\nd) propylene carboxide"
+            },
+            {
+                "role": "assistant",
+                "content": "b) propylene carbonate"
+            }
+        ]
+    },
+    {
+        "id": 2476,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/1f9e93738364c38401fcf50460da89d0ba84656698a181dfc1270c572300ffa1.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the chemical formula of BC?\n\na) C5H8O3\nb) C5H8O4\nc) C5H8O5\nd) C5H8O6"
+            },
+            {
+                "role": "assistant",
+                "content": "a) C5H8O3"
+            }
+        ]
+    },
+    {
+        "id": 2477,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/1f9e93738364c38401fcf50460da89d0ba84656698a181dfc1270c572300ffa1.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the viscosity of Dox at 25 ℃?\n\na) 0.44 cP\nb) 0.45 cP\nc) 0.47 cP\nd) 0.46 cP"
+            },
+            {
+                "role": "assistant",
+                "content": "d) 0.46 cP"
+            }
+        ]
+    },
+    {
+        "id": 2480,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/78b67db4c5b5154c5266953598edb12353e2284389b63ce3649504a16a1bd0ea.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of Li+ in THF?\n\na) 5.9 10^-10 m^2 s^-1\nb) 6.0 10^-10 m^2 s^-1\nc) 6.1 10^-10 m^2 s^-1\nd) 6.2 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 5.9 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2481,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/1f9e93738364c38401fcf50460da89d0ba84656698a181dfc1270c572300ffa1.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the boiling point of TG?\n\na) 216 ℃\nb) 218 ℃\nc) 220 ℃\nd) 222 ℃"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 216 ℃"
+            }
+        ]
+    },
+    {
+        "id": 2482,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/78b67db4c5b5154c5266953598edb12353e2284389b63ce3649504a16a1bd0ea.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of GBL in pure solvent?\n\na) 9.0 10^-10 m^2 s^-1\nb) 9.1 10^-10 m^2 s^-1\nc) 9.2 10^-10 m^2 s^-1\nd) 9.3 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 9.0 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2483,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_jp9825664/images/78b67db4c5b5154c5266953598edb12353e2284389b63ce3649504a16a1bd0ea.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of Li+ in PC?\n\na) 1.6 10^-10 m^2 s^-1\nb) 1.7 10^-10 m^2 s^-1\nc) 1.8 10^-10 m^2 s^-1\nd) 1.9 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 1.6 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2484,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/c0eda2c6e2a136d12b6b7a844bd22661696e91268e94823070f2c5ebb990c701.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the chemical name of DEC?\n\na) diethyl carbonate\nb) diethyl carbide\nc) diethyl carboxylate\nd) diethyl carboxide"
+            },
+            {
+                "role": "assistant",
+                "content": "a) diethyl carbonate"
+            }
+        ]
+    },
+    {
+        "id": 2485,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/c0eda2c6e2a136d12b6b7a844bd22661696e91268e94823070f2c5ebb990c701.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the chemical formula of EC?\n\na) C3H4O3\nb) C3H4O4\nc) C3H4O5\nd) C3H4O6"
+            },
+            {
+                "role": "assistant",
+                "content": "a) C3H4O3"
+            }
+        ]
+    },
+    {
+        "id": 2486,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/804bf7a467c297bf9693d7037f1fc90fdd1b3c706fa958e037523cfda94bea56.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the permittivity of PC?\n\na) 64.90\nb) 64.91\nc) 64.92\nd) 64.93"
+            },
+            {
+                "role": "assistant",
+                "content": "c) 64.92"
+            }
+        ]
+    },
+    {
+        "id": 2487,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/1186cb69426097e8e4ddf0b94d5daa98587c5064ba74db3064fb64ea893c917d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of PC in 1 M LiPF6 in PC at 353 K?\n\na) 5.93 10^-10 m^2 s^-1\nb) 5.94 10^-10 m^2 s^-1\nc) 5.95 10^-10 m^2 s^-1\nd) 5.96 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 5.93 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2488,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/804bf7a467c297bf9693d7037f1fc90fdd1b3c706fa958e037523cfda94bea56.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of Li+ in 1 M LiPF6 in PC at 263 K?\n\na) 0.185 10^-10 m^2 s^-1\nb) 0.186 10^-10 m^2 s^-1\nc) 0.187 10^-10 m^2 s^-1\nd) 0.188 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 0.185 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2489,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/804bf7a467c297bf9693d7037f1fc90fdd1b3c706fa958e037523cfda94bea56.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the temperature when the diffusion coefficient of Li+ in 1 M LiPF6 in DEC is 5.75 10^-10 m^2 s^-1?\n\na) 343 K\nb) 344 K\nc) 345 K\nd) 346 K"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 343 K"
+            }
+        ]
+    },
+    {
+        "id": 2490,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/1186cb69426097e8e4ddf0b94d5daa98587c5064ba74db3064fb64ea893c917d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of Li+ in 1 M LiPF6 in EC/DEC (2:8) at 353 K?\n\na) 6.85 10^-10 m^2 s^-1\nb) 6.86 10^-10 m^2 s^-1\nc) 6.87 10^-10 m^2 s^-1\nd) 6.88 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 6.85 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2491,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/1186cb69426097e8e4ddf0b94d5daa98587c5064ba74db3064fb64ea893c917d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the ratio of EC/DEC when the diffusion coefficient of Li+ in 1 M LiPF6 in EC/DEC is 3.13 10^-10 m^2 s^-1 at 333 K?\n\na) 4:6\nb) 3:7\nc) 2:8\nd) 1:9"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 4:6"
+            }
+        ]
+    },
+    {
+        "id": 2492,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/1186cb69426097e8e4ddf0b94d5daa98587c5064ba74db3064fb64ea893c917d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of DEC in 1 M LiPF6 in EC/DEC (8:2) at 343 K?\n\na) 5.87 10^-10 m^2 s^-1\nb) 5.88 10^-10 m^2 s^-1\nc) 5.89 10^-10 m^2 s^-1\nd) 5.90 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 5.87 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2493,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/1186cb69426097e8e4ddf0b94d5daa98587c5064ba74db3064fb64ea893c917d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of EC in 1 M LiPF6 in EC/DEC (8:2) at 333 K?\n\na) 5.46 10^-10 m^2 s^-1\nb) 5.47 10^-10 m^2 s^-1\nc) 5.48 10^-10 m^2 s^-1\nd) 5.49 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 5.46 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2494,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/1186cb69426097e8e4ddf0b94d5daa98587c5064ba74db3064fb64ea893c917d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of PF6- in 1 M LiPF6 in EC/DEC (8:2) at 323 K?\n\na) 3.75 10^-10 m^2 s^-1\nb) 3.76 10^-10 m^2 s^-1\nc) 3.77 10^-10 m^2 s^-1\nd) 3.78 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 3.75 10^-10 m^2 s^-1"
+            }
+        ]
+    },
+    {
+        "id": 2495,
+        "image": "/bohr/mds-936-fzsd/v1/mid_mds_936/10.1021_je3003089/images/1186cb69426097e8e4ddf0b94d5daa98587c5064ba74db3064fb64ea893c917d.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nYou are an expert in the electrolytes field.\nPlease answer the following multiple choice question correctly.\nOnly write the option (e.g., a), b), c), or d)) without explanation.\nIn the upper paper, what is the diffusion coefficient of Li+ in 1 M LiPF6 in EC/DEC (6:4) at 293 K?\n\na) 1.11 10^-10 m^2 s^-1\nb) 1.12 10^-10 m^2 s^-1\nc) 1.13 10^-10 m^2 s^-1\nd) 1.14 10^-10 m^2 s^-1"
+            },
+            {
+                "role": "assistant",
+                "content": "a) 1.11 10^-10 m^2 s^-1"
+            }
+        ]
+    }
+]
