@@ -1,5 +1,7 @@
 # AI for Science Cup - Scientific Paper Intelligent Parsing | 3rd Place (2nd Prize)
 
+English | [中文](README.md)
+
 > **Bohrium Platform · AI for Science with Global Scientists Competition**
 >
 > This project is the solution for the 2024 AI for Science Cup - Scientific Paper Intelligent Parsing track, achieving **3rd place (2nd Prize)**.

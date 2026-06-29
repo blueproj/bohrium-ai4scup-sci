@@ -1,5 +1,7 @@
 # AI for Science Cup - 科学文献智能解析 | 第3名（二等奖）
 
+[English](README_EN.md) | 中文
+
 > **Bohrium 平台 · AI for Science with Global Scientists 竞赛**
 >
 > 本项目是 2024 年 AI for Science Cup 科学文献智能解析赛道的解决方案，最终获得 **第3名（二等奖）**。
