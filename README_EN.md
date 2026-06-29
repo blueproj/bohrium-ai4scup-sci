@@ -182,8 +182,9 @@ The following large data files are available via **GitHub Release** due to size:
 
 | File | Size | Description |
 |------|------|-------------|
-| `pdfs.zip` | ~2.7 GB | Original PDF files of 936 scientific papers |
-| `mds-936-with-images.zip` | ~1.8 GB | Complete MinerU-parsed Markdown (with extracted images) |
+| `pdfs_part1.zip` | ~1.3 GB | Original PDF files of first 468 papers |
+| `pdfs_part2.zip` | ~1.2 GB | Original PDF files of last 468 papers |
+| `mds-936-with-images.zip` | ~1.7 GB | Complete MinerU-parsed Markdown (with extracted images) |
 
 > Please download these files from the [Releases page](https://github.com/blueproj/bohrium-ai4scup-sci/releases).
 

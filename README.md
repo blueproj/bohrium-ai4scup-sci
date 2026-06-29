@@ -182,8 +182,9 @@
 
 | 文件 | 大小 | 说明 |
 |------|------|------|
-| `pdfs.zip` | ~2.7 GB | 936 篇科学文献的原始 PDF 文件 |
-| `mds-936-with-images.zip` | ~1.8 GB | MinerU 解析后的完整 Markdown（含提取的图片） |
+| `pdfs_part1.zip` | ~1.3 GB | 前 468 篇论文的原始 PDF 文件 |
+| `pdfs_part2.zip` | ~1.2 GB | 后 468 篇论文的原始 PDF 文件 |
+| `mds-936-with-images.zip` | ~1.7 GB | MinerU 解析后的完整 Markdown（含提取的图片） |
 
 > 请在 [Releases 页面](https://github.com/blueproj/bohrium-ai4scup-sci/releases) 下载这些文件。
 
